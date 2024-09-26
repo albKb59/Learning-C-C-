@@ -2,7 +2,7 @@
 
 Class Albert(){
 
-
+int loool;
 
 
 
