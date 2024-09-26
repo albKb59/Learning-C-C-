@@ -3,7 +3,7 @@
 int main (){
 
 
-std::cout << "Albert stinkt" <<std::endl ;
+std::cout << "Joshua Dieit  stinkt" <<std::endl ;
 
     return 0;
 }
